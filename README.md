@@ -10,9 +10,9 @@
 
 My Name is Anand Dwivedi & I'm basically from Mirzapur (U.P.) but my current location is in Noida.
 
-I'm pursuing Full Stack Development from DUCAT INDIA, Noida with certification.
+I'm a Full Stack Developer.
 
-My Technical skills are HTML5, CSS3, BOOTSTRAP, MATERIALUI, JAVASCRIPT, TYPESCRIPT, REACT JS, REACT-REDUX, REACT-ROUTING, NODE JS, EXPRESS JS and MONDO DB.
+My Technical skills are HTML5, CSS3, BOOTSTRAP, MATERIALUI, JAVASCRIPT, TYPESCRIPT, REACT JS, REACT-REDUX, useContext, contextAPI, REACT-ROUTING, NODE JS, EXPRESS JS and MONDO DB.
 
 I have completed 4 projects with Frontend Technologies and my first project is React Calculator, To-Do App, News App and a E-Commerce Website where I put all the concepts of REACT JS.
 
